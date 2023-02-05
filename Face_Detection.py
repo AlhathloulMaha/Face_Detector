@@ -1,13 +1,6 @@
 import cv2
 from random import randrange
 
-
-cap = cv2.VideoCapture(0)
-#cap.release() 
-
-cap2 = cv2.VideoCapture(0)
-
-
 # haar cascade algorithm used to detect objects in images
 # Can be faces,bodies and coca colas!
 # Link to github file:
